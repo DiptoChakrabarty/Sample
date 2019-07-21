@@ -1,0 +1,4 @@
+git revert HEAD
+git reset --hard <commit id>
+
+
