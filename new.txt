@@ -1,2 +1,10 @@
 Hello World
 thsi is a learning file
+
+git log
+  git read-tree -u -m 2
+  git read-tree -u -m 0fac3b1ceeac1e63a904fa5cde10f7997f852f0c
+  git commit 
+ git commit -m "gone back to 0fac3b1ceeac1e63a904fa5cde10f7997f852f0c"
+  git push origin master
+  git push origin another
